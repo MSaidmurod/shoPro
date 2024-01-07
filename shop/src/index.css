@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: monospace
+}
+
+a.active {
+    color: rgb(60, 0, 210);
+  }
